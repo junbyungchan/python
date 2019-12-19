@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60fd7f15-b48e-46de-a63e-daf87e2c0e1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T8eiNVkuhdJdTVE1U4LnguWKTF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\lab-python" />
+      <recent name="C:\dev\lab-python\scratch09" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex02대호형">
+    <configuration name="ex01_namedtuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scratch14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch14/ex01_namedtuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scratch14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch14/ex02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02대호형" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scratch14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch14/ex02대호형.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex02_의사결정트리" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scratch14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch14/ex02_의사결정트리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lab-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scratch13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch13/ex04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex02대호형" />
+        <item itemvalue="Python.ex02_의사결정트리" />
+        <item itemvalue="Python.ex02" />
+        <item itemvalue="Python.ex01_namedtuple" />
+        <item itemvalue="Python.ex04" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60fd7f15-b48e-46de-a63e-daf87e2c0e1a" name="Default Changelist" comment="" />
+      <created>1572846275935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572846275935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="382" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576054067458">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="692" y="382" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1576054067458" />
+    <state x="917" y="309" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576111994003">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="917" y="309" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1576111994003" />
+    <state width="1899" height="248" key="GridCell.Tab.0.bottom" timestamp="1576747231424">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1576747231424" />
+    <state width="1899" height="248" key="GridCell.Tab.0.center" timestamp="1576747231424">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1576747231424" />
+    <state width="1899" height="248" key="GridCell.Tab.0.left" timestamp="1576747231424">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1576747231424" />
+    <state width="1899" height="248" key="GridCell.Tab.0.right" timestamp="1576747231424">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1899" height="248" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1576747231424" />
+    <state x="573" y="103" key="SettingsEditor" timestamp="1576031194725">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="573" y="103" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1576031194725" />
+    <state x="-7" y="0" width="974" height="1167" key="dock-window-1" timestamp="1576743712081">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="-7" y="0" width="974" height="1167" key="dock-window-1/0.0.1920.1160@0.0.1920.1160" timestamp="1576743712081" />
+    <state x="0" y="10" width="839" height="1058" key="dock-window-2" timestamp="1576483499828">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="0" y="10" width="839" height="1058" key="dock-window-2/0.0.1920.1160@0.0.1920.1160" timestamp="1576483499828" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1576048621807">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1576048621807" />
+  </component>
+</project>
